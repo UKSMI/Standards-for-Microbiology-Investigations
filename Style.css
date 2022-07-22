@@ -1,0 +1,38 @@
+body {
+    font-family: arial, sans-serif;
+    margin-left: 150px;
+    margin-right:150px;
+    margin-top:50;
+    background: #f0ffff;
+}
+div.b {
+    margin-left:30px;
+}
+div.c {
+    margin-left:30px;
+}
+
+table.a {
+    margin-left:30px ;
+    border-collapse: collapse;
+    width: 50%;
+    font-size: 20px;
+  }
+  
+  td, th {
+    border: 1px solid #0c0909;
+    text-align: left;
+    padding: 8px;
+  }
+  table.b {
+    margin-left:30px ;
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 20px;
+  }
+  
+  td, th {
+    border: 1px solid #0c0909;
+    text-align: left;
+    padding: 8px;
+  } 
